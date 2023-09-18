@@ -1,0 +1,3 @@
+[submodule "external/glm"]
+	path = external/glm
+	url = https://ghproxy.com/https://github.com/g-truc/glm.git
